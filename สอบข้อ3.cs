@@ -60,7 +60,7 @@ namespace ConsoleApp2
                 {
                     Console.WriteLine("invalid filmBackWidth Please Input again");
                 }
-                break;               
+                
             }
             Console.ReadLine();
         }
